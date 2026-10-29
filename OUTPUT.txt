@@ -1,0 +1,7 @@
+BFS — Sample Output
+===================
+
+Example console output for the experiment. This is a sample; interactive runs may differ based on the input entered.
+
+Enter starting node (A-F): A
+BFS traversal: A -> B -> C -> D -> E -> F
